@@ -14,6 +14,8 @@ do {
 } while (i <= 6)
 */
 
+let c = 1;
+
 for (c=1; c<=10; c++) {
     console.log(`passo ${c}`)
 }
